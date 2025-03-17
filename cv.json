@@ -51,17 +51,19 @@
       "name": "Studio Du Petit Pont",
       "position": "Illustrateur Sonore",
       "location_type": "On site",
-      "location": "",
-      "startDate": "2018-01-01",
+      "location": "Maurepas, France",
+      "startDate": "2018-01-02",
       "endDate": "2024-03-31",
       "summary": "Travail en sound design sur des plateaux de tournage et synchronisation avec l’environnement audiovisuel.",
       "highlights": [
+        "Projet Creator : Refonte du back-end d'une application web permettant de créer des interfaces de boutons",
         "Conception et déclenchement de sound design avec Ableton Live"
       ],
       "responsibilities": [
         "Enregistrement et mixage audio sur ProTools",
         "Correction de justesse avec Melodyne"
       ],
+      "achievements": ["Déploiement de Creator"],
       "skills": ["Ableton Live", "ProTools", "Melodyne"]
     }
   ],

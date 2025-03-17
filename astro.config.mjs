@@ -3,5 +3,8 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://jeremysananikone.github.io",
+  base: "CV_Anothay",
+  trailingSlash: "always",
   integrations: [tailwind()],
 });

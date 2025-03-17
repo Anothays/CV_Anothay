@@ -179,7 +179,8 @@
         "Développement full-stack avec Symfony 7 et NextJS 14, React-Native, ElectronJS",
         "Intégration de Stripe et MongoDB"
       ],
-      "url": "https://cinephoria-web.vercel.app"
+      "url": "https://cinephoria-web.vercel.app",
+      "github": "https://github.com/Anothays/cinephoria"
     }
   ]
 }
